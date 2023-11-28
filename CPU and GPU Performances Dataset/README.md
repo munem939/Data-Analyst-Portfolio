@@ -21,10 +21,13 @@ This report delves into the rapidly evolving landscape of semiconductor technolo
 ## Python Code to Summarise Data and Count the Number of Blank Entries in Each Heading
 
 **Python Code:**
+
 ![Python Code](https://i.imgur.com/FZ8sZ6v.png)
 
 **Output:**
+
 ![Output1](https://i.imgur.com/cGWNpco.png)
+
 
 ![Output2](https://i.imgur.com/kPJKap4.png)
 

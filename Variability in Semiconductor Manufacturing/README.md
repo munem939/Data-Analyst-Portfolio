@@ -9,6 +9,8 @@ I trust that this project provides valuable insights into my capabilities as a d
 ## Data Visualisation Dashboard
 
 https://public.tableau.com/views/VariabilityinSiO2DepositioninSemiconductorManufacturing/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
+
+![DataVisualisations](https://i.imgur.com/kPtEgXC.png)
 ## Data Analysis Tools Used
 
 -	Excel

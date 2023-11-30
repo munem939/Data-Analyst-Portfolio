@@ -9,6 +9,7 @@ I invite you to explore these projects, each illustrating my ability to deliver 
 -	Market Trend Analysis of Video Game Sales
 -	Navigating Technological Shifts in Computing Power
 -	Optimizing Thin Film Deposition for Manufacturing Efficiency
+-	Using Power Pivot to Analyse US Adidas Sales
 
 Thank you for your time. I am eager to discuss how my comprehensive skill set can contribute to your data analytics needs
 

@@ -5,6 +5,10 @@
 - The two tables were then merged into a new table named “*vgsalesfull*” using a left join on the game names.
 - The “*vgsalesfull*” table was exported as a CSV file for further analysis using SQL.
 
+![SQLCode1](https://i.imgur.com/98mvk9c.png)
+
+![SQLCode2](https://i.imgur.com/KeATgQQ.png)
+
 ## Data Analysis using SQL:
 
 - Utilizing SQL, an analysis of total global, North American, European, Japanese, and "Other" region sales was conducted across various genres. The findings revealed that the action genre holds the highest global sales, trailed by sports and shooter games.

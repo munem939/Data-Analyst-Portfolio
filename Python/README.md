@@ -39,6 +39,10 @@ The results are organized into a 2D array representing a spatial map, shown belo
 - Two datasets, named "*vgsales*" and "*vgsalesreviews*", were obtained in CSV format. These files contain information about video games, encompassing sales data and review-related details, respectively.
 - A Python script was developed to summarises key insights for each heading in "*vgsales*" and "*vgsalesreviews*" files, offering valuable information on the data types for each header and how many blank spaces are present in the dataset.
 
+![DataSummariseCodeOutput1](https://i.imgur.com/mG880Lg.png)
+
+![DataSummariseCodeOutput2](https://i.imgur.com/pymT0ep.png)
+
 **VideoGameDataAnalysis.py**
 
 - A Python script was developed to visualize the top games' sales by region, demonstrating the global sales across “North America”, “Europe”, “Japan”, and “Other” regions.

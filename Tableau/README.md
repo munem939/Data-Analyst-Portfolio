@@ -1,4 +1,4 @@
-## Utilising Tableau as a Power Data Visualisation Tool
+## Utilising Tableau as a Powerful Data Visualisation Tool
 
 ## Navigating Technological Shifts in Computing Power
 

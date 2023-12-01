@@ -15,7 +15,7 @@ The layout of the file names for the outputted data files are shown below, with 
 | 3 | "RamanMap1_1500_x100obj_10pwr_3sx1_2__X_**8680.02**__Y_**-70129.4**__Time_7.txt" |
 | 4 | "RamanMap1_1500_x100obj_10pwr_3sx1_3__X_**8680.52**__Y_**-70129.4**__Time_10.txt" |
 | 5 | "RamanMap1_1500_x100obj_10pwr_3sx1_4__X_**8681.02**__Y_**-70129.4**__Time_14.txt" |
-|  | ... |
+| ...  | ... |
 | 32 | "RamanMap1_1500_x100obj_10pwr_3sx1_31__X_**8679.02**__Y_**-70128.9**__Time_109.txt" |
 | 33| "RamanMap1_1500_x100obj_10pwr_3sx1_32__X_**8679.52**__Y_**-70128.9**__Time_113.txt" |
 | 34 | "RamanMap1_1500_x100obj_10pwr_3sx1_33__X_**8680.02**__Y_**-70128.9**__Time_116.txt" |

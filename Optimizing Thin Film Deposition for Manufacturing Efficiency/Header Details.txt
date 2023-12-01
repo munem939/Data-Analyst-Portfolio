@@ -1,7 +1,0 @@
-Columns	Description
-Source	a factor with levels 1 and 2
-Lot	a factor giving a unique identifier for each lot.
-Wafer	a factor giving a unique identifier for each wafer within a lot.
-Site	a factor with levels 1, 2, and 3
-Thickness	a numeric vector giving the thickness of the oxide layer (Target 2000um).
-
